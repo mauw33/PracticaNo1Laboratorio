@@ -39,11 +39,11 @@ El uso de la simulación por ordenador es una herramienta imprescindible hoy en 
 
 ### 5.1 Arme el circuito que se muestra en la figura 1.1.
 
- ![Screenshot](LaboratorioNo1/LaboratorioNo1/Circuito1.jpg)
+ ![Screenshot](LaboratorioNo1/Circuito1.jpg)
  
 Figura 1.1. Circuito Resistivo Mixto
 
- ![Screenshot](LaboratorioNo1/LaboratorioNo1/circuito.jpg)
+ ![Screenshot](LaboratorioNo1//circuito.jpg)
  
 ### 5.2 Mida el voltaje y corriente en cada uno de los elementos del circuito. Anote los resultados de las mediciones en la tabla 1.1.
 ![Screenshot](LaboratorioNo1/imagen1.jpg)
