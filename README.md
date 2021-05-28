@@ -39,29 +39,31 @@ El uso de la simulación por ordenador es una herramienta imprescindible hoy en 
 
 ### 5.1 Arme el circuito que se muestra en la figura 1.1.
 
- ![Screenshot](LaboratorioNo1/)
+ ![Screenshot](LaboratorioNo1/LaboratorioNo1/Circuito1.jpg)
  
 Figura 1.1. Circuito Resistivo Mixto
+
+ ![Screenshot](LaboratorioNo1/LaboratorioNo1/circuito.jpg)
  
 ### 5.2 Mida el voltaje y corriente en cada uno de los elementos del circuito. Anote los resultados de las mediciones en la tabla 1.1.
-![Screenshot](LaboratorioNo1/)
-![Screenshot](LaboratorioNo1/)
+![Screenshot](LaboratorioNo1/imagen1.jpg)
+![Screenshot](LaboratorioNo1/imagen2.jpg)
 
 Tabla 1.1. Resultados obtenidos de voltaje y corriente, en cada elemento del circuito.
 
-![Screenshot](LaboratorioNo1/)
+![Screenshot](LaboratorioNo1/tabla1.jpg)
  
 ### 5.3 Verifique si se cumple la Ley de Kirchhoff de Voltajes en cada trayectoria cerrada, considerando  las  elevaciones  de  voltaje  con  signo  positivo  y  las caídas  de  voltaje  con signo negativo. Anote los resultados en la tabla 1.2.
  
 Tabla 1.2. Verificación de la LVK.
-![Screenshot](LaboratorioNo1/)
+![Screenshot](LaboratorioNo1/tabla2.jpg)
 
 SI CUMPLE PORQUE LA SUMATORIA DE VOLTAJE EN LAS RESISTENCIAS ES IGUAL AL VOLTAJE DE LA FUENTE.
  
 ### 5.4 Verifique si se cumple la Ley de Kirchhoff de Corrientes en cada nodo, tomando con signo positivo las corrientes que entran al nodo y con signo negativo las que salen del nodo. Anote los resultados en la tabla 1.3.
  
 Tabla 1.3. Verificación de la LCK.
-![Screenshot](LaboratorioNo1/)
+![Screenshot](LaboratorioNo1/tabla3.jpg)
 
 SI CUMPLE PORQUE LA SUMATORIA DE CORRIENTES EN LOS NODOS ES IGUAL A CERO.
  
