@@ -69,12 +69,17 @@ SI CUMPLE PORQUE LA SUMATORIA DE CORRIENTES EN LOS NODOS ES IGUAL A CERO.
  
 ### 5.5 Compare los resultados medidos con los valores obtenidos al analizar el circuito analíticamente y concluya al respecto.
 
+Al obtener los valores realizados mediante las fórmulas, obtenemos medidas que se acercan mucho a lo que se obtiene dentro del circuito realizado dentro de tinkercad, no existe una gran diferencia entre cada valor, tanto del voltaje como de corriente, se puede observar en la Tabla 1.1, por lo cual los valores obtenidos son los mismos, eso nos da una nocion de que cada uno de las operaciones realizadas se encuentran correctamente.
 
 
 6. VIDEO
 
+https://www.youtube.com/watch?v=crRb9tiHhD0
+
 
 7. CONCLUSIONES
+
+
 
 
 8. BIBLIOGRAFIA
