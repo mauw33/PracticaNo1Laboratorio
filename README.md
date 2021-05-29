@@ -79,8 +79,8 @@ https://www.youtube.com/watch?v=crRb9tiHhD0
 
 7. CONCLUSIONES
 
-
-
+  - Se pudo comprobar que los valores obtenidos tanto del voltaje y la corriente mediante el uso de las leyes Kirchhoff fueron muy semejantes a los obtenidos mediante verificar el circuito analiticamente, con unos pequeños margenes de error.
+  - Asi mismo tanto para las tablas obtenidas, se comprobó el uso de la primera y segunda ley de Kirchhoff, los cálculos obtenidos nos asemejan a una silmulación real, todo este proceso de usar las leyes antes mencionadas nos permiten a que los valores sean precisos y casi exactos, apoyandonos del mismo ciruito para usar las fórmulas como la dirección de la corriente, sus trayectorias y el análisis imperial sobre como usarlas correctamente.
 
 8. BIBLIOGRAFIA
 
